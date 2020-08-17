@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ca1e888-7734-4dfe-a923-8573151e0e7e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/out/Gradle">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZiJPwKxfdA11HU66kHvIorWUci" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="E:/FirestoreLoginAndReigister-master" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="instant.run" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Akki\IntelliJ" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.NFC.Main" />
+      <module name="NFCProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.NFC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ca1e888-7734-4dfe-a923-8573151e0e7e" name="Default Changelist" comment="" />
+      <created>1585315964825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585315964825</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="46" key="#Notifications" timestamp="1585385330940">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="274" y="46" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1585385330940" />
+    <state x="274" y="46" key="#Plugins" timestamp="1585380817107">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="274" y="46" key="#Plugins/0.0.1366.768@0.0.1366.768" timestamp="1585380817107" />
+    <state x="275" y="42" key="#Project_Structure" timestamp="1585318741563">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1585318741563" />
+    <state x="463" y="48" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form" timestamp="1586444201505">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="48" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form/0.0.1366.768@0.0.1366.768" timestamp="1586444201505" />
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585316986032">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1585316986032" />
+    <state x="432" y="227" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585318483075">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="432" y="227" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.768@0.0.1366.768" timestamp="1585318483075" />
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1585487425868">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1585487425868" />
+    <state x="463" y="132" key="FileChooserDialogImpl" timestamp="1586114311325">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="132" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1586114311325" />
+    <state width="1323" height="221" key="GridCell.Tab.0.bottom" timestamp="1588719033665">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588719033665" />
+    <state width="1323" height="221" key="GridCell.Tab.0.center" timestamp="1588719033665">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1588719033665" />
+    <state width="1323" height="221" key="GridCell.Tab.0.left" timestamp="1588719033665">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1588719033665" />
+    <state width="1323" height="221" key="GridCell.Tab.0.right" timestamp="1588719033665">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588719033665" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1588365381197">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588365381197" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1588365381196">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1588365381196" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1588365381196">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1588365381196" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1588365381196">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1588365381196" />
+    <state x="105" y="0" key="SettingsEditor" timestamp="1585395431917">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="105" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585395431917" />
+    <state x="378" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1588804387927">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="378" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1588804387927" />
+    <state x="224" y="277" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585318634402">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="224" y="277" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.768@0.0.1366.768" timestamp="1585318634402" />
+    <state x="0" y="0" width="606" height="768" key="find.popup" timestamp="1585326775269">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" width="606" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1585326775269" />
+    <state x="0" y="8" key="new project wizard" timestamp="1585318449310">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="8" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1585318449310" />
+    <state x="345" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585380712503">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="345" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1585380712503" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NFCProj$Main.ic" NAME="Main Coverage Results" MODIFIED="1585486517371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.NFC.*</FILTER>
+    </SUITE>
+  </component>
+</project>

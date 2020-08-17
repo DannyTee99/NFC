@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\menu_registring.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\menu\\registring.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\font_berkshire_swash.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\font\\berkshire_swash.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_action_done.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-xhdpi\\action_done.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\font_jacques_francois.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\font\\jacques_francois.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_action_done.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-hdpi\\action_done.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_edittext_round.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\drawable\\custom_edittext_round.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\font_eagle_lake.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\font\\eagle_lake.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_animation.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_headers.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_action_done.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-mdpi\\action_done.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_biometrics.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\layout\\activity_biometrics.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\layout_splashscreenmain.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\layout\\splashscreenmain.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\font_lusitana.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\font\\lusitana.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_screen.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\layout\\home_screen.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\layout_bank_balance.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\layout\\bank_balance.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_page.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\layout\\activity_login_page.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\menu_enter_account_details.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\menu\\enter_account_details.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_enter_account_details.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\layout\\activity_enter_account_details.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_general.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_animation.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_action_done.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-xxxhdpi\\action_done.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\xml_apduservice.xml.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\xml\\apduservice.xml"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_action_done.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-xxhdpi\\action_done.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Akki\\HCESettings1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Akki\\HCESettings1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,198 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="tum.developer.hcesettings"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.NFC" />
+11-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:8:5-62
+11-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:8:22-59
+12    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+12-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:9:5-72
+12-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:9:22-69
+13    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+13-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:10:5-74
+13-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:10:22-71
+14
+15    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+16    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.firebase:firebase-firestore:21.4.1] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\05cc80e0ebb397aa5b23ba957ce023d8\firebase-firestore-21.4.1\AndroidManifest.xml:13:5-79
+17-->[com.google.firebase:firebase-firestore:21.4.1] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\05cc80e0ebb397aa5b23ba957ce023d8\firebase-firestore-21.4.1\AndroidManifest.xml:13:22-76
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->[com.google.firebase:firebase-firestore:21.4.1] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\05cc80e0ebb397aa5b23ba957ce023d8\firebase-firestore-21.4.1\AndroidManifest.xml:14:5-67
+18-->[com.google.firebase:firebase-firestore:21.4.1] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\05cc80e0ebb397aa5b23ba957ce023d8\firebase-firestore-21.4.1\AndroidManifest.xml:14:22-64
+19
+20    <application
+20-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:12:5-64:19
+21        android:allowBackup="true"
+21-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:13:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.0.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\9c8e6a40e5c775cc0b383393826c43f7\core-1.0.0\AndroidManifest.xml:22:18-86
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:icon="@mipmap/ic_launcher_foreground"
+25-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:14:9-54
+26        android:label="TapIt"
+26-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:15:9-30
+27        android:theme="@style/AppTheme" >
+27-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:16:9-40
+28        <activity android:name="com.developer.tapit.loginPage" >
+28-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:17:9-19:20
+28-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:17:19-63
+29        </activity>
+30        <!-- <activity android:name=".LoginPage" /> -->
+31        <activity
+31-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:21:9-25:20
+32            android:name="com.developer.tapit.MainActivity"
+32-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:22:13-60
+33            android:label="TapIt" >
+33-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:23:13-34
+34        </activity>
+35        <activity android:name="com.developer.tapit.ssmain" >
+35-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:26:9-33:20
+35-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:26:19-60
+36            <intent-filter>
+36-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:27:13-31:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:28:17-69
+37-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:28:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:30:17-77
+39-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:30:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity android:name="com.developer.tapit.HomeScreen" />
+42-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:34:9-66
+42-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:34:19-64
+43        <activity android:name="com.developer.tapit.Biometrics" />
+43-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:35:9-67
+43-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:35:19-64
+44        <activity
+44-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:36:9-45:20
+45            android:name="com.developer.tapit.EnterAccountDetailsActivity"
+45-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:37:13-75
+46            android:label="@string/title_activity_enter_account_details"
+46-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:38:13-73
+47            android:windowSoftInputMode="adjustResize|stateVisible" >
+47-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:39:13-68
+48            <intent-filter>
+48-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:40:13-44:29
+49                <action android:name="android.intent.action.EnterAccountDetailsActivity" />
+49-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:41:17-92
+49-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:41:25-89
+50
+51                <category android:name="android.intent.category.DEFAULT" />
+51-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:43:17-76
+51-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:43:27-73
+52            </intent-filter>
+53        </activity>
+54        <activity android:name="com.developer.tapit.BankBalance" />
+54-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:46:9-67
+54-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:46:19-65
+55        <activity android:name="com.developer.tapit.SplashScreen" />
+55-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:47:9-68
+55-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:47:19-66
+56
+57        <service
+57-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:49:9-60:19
+58            android:name="com.developer.tapit.MyHostApduService"
+58-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:50:13-65
+59            android:exported="true"
+59-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:51:13-36
+60            android:permission="android.permission.BIND_NFC_SERVICE" >
+60-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:52:13-69
+61            <intent-filter>
+61-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:53:13-55:29
+62                <action android:name="android.nfc.cardemulation.action.HOST_APDU_SERVICE" />
+62-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:54:17-93
+62-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:54:25-90
+63            </intent-filter>
+64
+65            <meta-data
+65-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:57:13-59:55
+66                android:name="android.nfc.cardemulation.host_apdu_service"
+66-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:58:17-75
+67                android:resource="@xml/apduservice" />
+67-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:59:17-52
+68        </service>
+69
+70        <meta-data
+70-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:61:9-63:57
+71            android:name="preloaded_fonts"
+71-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:62:13-43
+72            android:resource="@array/preloaded_fonts" />
+72-->E:\Akki\HCESettings1\app\src\main\AndroidManifest.xml:63:13-54
+73
+74        <service
+74-->[com.google.firebase:firebase-firestore:21.4.1] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\05cc80e0ebb397aa5b23ba957ce023d8\firebase-firestore-21.4.1\AndroidManifest.xml:17:9-23:19
+75            android:name="com.google.firebase.components.ComponentDiscoveryService"
+75-->[com.google.firebase:firebase-firestore:21.4.1] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\05cc80e0ebb397aa5b23ba957ce023d8\firebase-firestore-21.4.1\AndroidManifest.xml:18:13-84
+76            android:directBootAware="true"
+76-->[com.google.firebase:firebase-common:19.3.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\d6baea19c7ac5d62e44a74a51cb3aeb7\firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+77            android:exported="false" >
+77-->[com.google.firebase:firebase-firestore:21.4.1] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\05cc80e0ebb397aa5b23ba957ce023d8\firebase-firestore-21.4.1\AndroidManifest.xml:19:13-37
+78            <meta-data
+78-->[com.google.firebase:firebase-firestore:21.4.1] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\05cc80e0ebb397aa5b23ba957ce023d8\firebase-firestore-21.4.1\AndroidManifest.xml:20:13-22:85
+79                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+79-->[com.google.firebase:firebase-firestore:21.4.1] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\05cc80e0ebb397aa5b23ba957ce023d8\firebase-firestore-21.4.1\AndroidManifest.xml:21:17-111
+80                android:value="com.google.firebase.components.ComponentRegistrar" />
+80-->[com.google.firebase:firebase-firestore:21.4.1] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\05cc80e0ebb397aa5b23ba957ce023d8\firebase-firestore-21.4.1\AndroidManifest.xml:22:17-82
+81        </service>
+82
+83        <activity
+83-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\3ce51eb42fcdf1e4f0c0d4f1a836e36a\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+84            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+84-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\3ce51eb42fcdf1e4f0c0d4f1a836e36a\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+85            android:exported="false"
+85-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\3ce51eb42fcdf1e4f0c0d4f1a836e36a\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+86            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- MongoDbMobileProvider initialize MongoDB Mobile for future usage -->
+86-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\3ce51eb42fcdf1e4f0c0d4f1a836e36a\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+87        <provider
+87-->[org.mongodb:stitch-android-services-mongodb-local:4.1.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\e7b51a4bcca1c0349c20c60a9b39cab2\jetified-stitch-android-services-mongodb-local-4.1.0\AndroidManifest.xml:14:9-17:40
+88            android:name="com.mongodb.stitch.android.services.mongodb.local.internal.MongoDbMobileProvider"
+88-->[org.mongodb:stitch-android-services-mongodb-local:4.1.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\e7b51a4bcca1c0349c20c60a9b39cab2\jetified-stitch-android-services-mongodb-local-4.1.0\AndroidManifest.xml:15:13-108
+89            android:authorities="tum.developer.hcesettings.StitchMongoDBMobileProvider"
+89-->[org.mongodb:stitch-android-services-mongodb-local:4.1.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\e7b51a4bcca1c0349c20c60a9b39cab2\jetified-stitch-android-services-mongodb-local-4.1.0\AndroidManifest.xml:16:13-79
+90            android:exported="false" />
+90-->[org.mongodb:stitch-android-services-mongodb-local:4.1.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\e7b51a4bcca1c0349c20c60a9b39cab2\jetified-stitch-android-services-mongodb-local-4.1.0\AndroidManifest.xml:17:13-37
+91        <!--
+92          StitchInitProvider is a ContentProvider that will associate the application's Context
+93          with Stitch. It also will look for resource values such as stitch_client_app_id to register
+94           a default app client.
+95        -->
+96        <provider
+96-->[org.mongodb:stitch-android-core:4.1.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\6a196de146dfe43b3c05f762d9a8d4b6\jetified-stitch-android-core-4.1.0\AndroidManifest.xml:21:9-24:40
+97            android:name="com.mongodb.stitch.android.core.internal.StitchInitProvider"
+97-->[org.mongodb:stitch-android-core:4.1.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\6a196de146dfe43b3c05f762d9a8d4b6\jetified-stitch-android-core-4.1.0\AndroidManifest.xml:22:13-87
+98            android:authorities="tum.developer.hcesettings.StitchInitProvider"
+98-->[org.mongodb:stitch-android-core:4.1.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\6a196de146dfe43b3c05f762d9a8d4b6\jetified-stitch-android-core-4.1.0\AndroidManifest.xml:23:13-70
+99            android:exported="false" />
+99-->[org.mongodb:stitch-android-core:4.1.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\6a196de146dfe43b3c05f762d9a8d4b6\jetified-stitch-android-core-4.1.0\AndroidManifest.xml:24:13-37
+100        <provider
+100-->[com.google.firebase:firebase-common:19.3.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\d6baea19c7ac5d62e44a74a51cb3aeb7\firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+101            android:name="com.google.firebase.provider.FirebaseInitProvider"
+101-->[com.google.firebase:firebase-common:19.3.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\d6baea19c7ac5d62e44a74a51cb3aeb7\firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+102            android:authorities="tum.developer.hcesettings.firebaseinitprovider"
+102-->[com.google.firebase:firebase-common:19.3.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\d6baea19c7ac5d62e44a74a51cb3aeb7\firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+103            android:exported="false"
+103-->[com.google.firebase:firebase-common:19.3.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\d6baea19c7ac5d62e44a74a51cb3aeb7\firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+104            android:initOrder="100" />
+104-->[com.google.firebase:firebase-common:19.3.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\d6baea19c7ac5d62e44a74a51cb3aeb7\firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+105
+106        <meta-data
+106-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\445917a220e932aee2668fb0c3e1b2e1\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+107            android:name="com.google.android.gms.version"
+107-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\445917a220e932aee2668fb0c3e1b2e1\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+108            android:value="@integer/google_play_services_version" />
+108-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\alexa\.gradle\caches\transforms-2\files-2.1\445917a220e932aee2668fb0c3e1b2e1\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+109    </application>
+110
+111</manifest>
