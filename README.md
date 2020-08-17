@@ -20,11 +20,11 @@ For the mobile application I used android Studio and the Desktop I have used Int
 
 ### Firestore - Database
 
-Sign up to Firestore and add your project. 
-https://firebase.google.com/docs/firestore
+Sign up to Firestore and add your project.<br>
+https://firebase.google.com/docs/firestore<br>
 Go to console and add your project. Follow the instructions and connect your android application and your desktop application to the database.
 
-The documentation of Firestore is very informative if you want to know more. I used firestore instead of firebase because firestore has Java Support. For more information on Firestore: 
+The documentation of Firestore is very informative if you want to know more. I used firestore instead of firebase because firestore has Java Support. For more information on Firestore:<br> 
 https://www.youtube.com/watch?v=v_hR4K4auoQ&list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ
 
-*There seems to be a problem where the scanner seems to "miss" readings. You need to hover your phone 2-5 times over the scanner for it to be read. I could not find the cause of this in my code and I am not sure if this is a defect in the scanner model. Otherthan that this works fine ~*
+> There seems to be a problem where the scanner seems to "miss" readings. You need to hover your phone 2-5 times over the scanner for it to be read. I could not find the cause of this in my code and I am not sure if this is a defect in the scanner model. Otherthan that this works fine ~
